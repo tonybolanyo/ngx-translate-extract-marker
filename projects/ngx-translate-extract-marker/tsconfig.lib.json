@@ -3,6 +3,10 @@
   "compilerOptions": {
     "outDir": "../../out-tsc/lib",
     "declarationMap": true,
+<<<<<<< HEAD
+=======
+    "target": "es2015",
+>>>>>>> 3eedcdf (Feature/upgrade to ivy (#1))
     "declaration": true,
     "inlineSources": true,
     "types": [],
